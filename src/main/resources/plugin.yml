@@ -1,0 +1,4 @@
+name: IbisSavePoint
+version: ${project.version}
+main: jp.kaiz.ibissp.IbisSP
+depend: [ SQLiteLib ]
